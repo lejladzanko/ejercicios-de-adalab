@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Modulo 1/Gazpacho"
+		},
+		{
+			"path": "../../../Desktop/Modulo 1/Menu Tabla"
+		},
+		{
+			"path": "../../../Desktop/Modulo 1/Pagina JavaScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Menu Tabla"
+	}
+}
